@@ -12,4 +12,4 @@ In this project, we build an image processing tool, which is usually a task for 
 6) To automattically group documents together by content (say, we would like to gather notes and documents from the Analysing Big Data course in one folder and the Machine Learning course in another folder) - we will use K-Means to do word clustering;
 7) Simulate a streaming process that detects new images from a landing folder, and test our own images with the trained models.
 
-**The project was done in DataBricks framework and the HTML notebook can be found at "Handwritten Word Recognition Project.html" and a visual presentation of the results can be seen at "Handwritten Word Recognition Project.pdf".**
+**The project was done in DataBricks framework and the HTML notebook can be found at "Handwritten Word Recognition Project.html" and a visual presentation of the results can be seen in the "Presentation" folder.**
